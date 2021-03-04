@@ -1,3 +1,11 @@
+# Task Completion 
+
+1. User can login with their email id
+2. After login List of present orders of that user will be shown
+3. Click on View order, wil show the products, where user can add or remove items from the cart
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
